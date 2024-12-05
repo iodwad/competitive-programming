@@ -5,6 +5,7 @@ using i64 = long long;
 
 using namespace std;
 
+int a[1000];
 i64 n, d, s, ans;
 
 i64 get_ans(i64 x) {
